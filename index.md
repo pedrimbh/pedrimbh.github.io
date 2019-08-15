@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Projetos GitHub
 
-You can use the [editor on GitHub](https://github.com/pedrimbh/pedrimbh.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Back-end com nodejs consumindo a Api do github
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Este projeto foi feito na semana omministack onde a finalidade é criar um app 
+igual o tinder, porem com o foco em desenvolvedores.
+Separei em partes, onde esta é o back-end.
+[Ver](https://github.com/pedrimbh/tinder-dev-backend)
 
 ### Markdown
 
